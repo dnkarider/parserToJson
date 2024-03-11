@@ -1,0 +1,10 @@
+.idea/
+target/
+.gradle/
+gradle/
+build/
+output/
+release/
+debug/
+data2.json
+new_data_json
